@@ -1,0 +1,91 @@
+[
+  {
+    "id": "prodigy-wireless-earbuds",
+    "name": "Prodigy Wireless Earbuds",
+    "price": 79,
+    "description": "Premium wireless earbuds with active noise cancellation, 30-hour battery life, and crystal-clear sound quality. Perfect for commuters and music lovers.",
+    "tags": ["audio", "wireless", "earbuds", "bluetooth", "noise-cancellation"],
+    "bundle_with": ["tech-charge-cable", "earbud-case"]
+  },
+  {
+    "id": "tech-charge-cable",
+    "name": "TechCharge USB-C Cable",
+    "price": 19,
+    "description": "Durable 6-foot USB-C fast charging cable with braided design. Supports data transfer and quick charging for all your devices.",
+    "tags": ["cable", "charging", "usb-c", "accessories"],
+    "bundle_with": ["prodigy-wireless-earbuds", "power-bank-pro"]
+  },
+  {
+    "id": "power-bank-pro",
+    "name": "PowerBank Pro 10000mAh",
+    "price": 45,
+    "description": "Compact 10000mAh portable charger with wireless charging pad and dual USB ports. Charges phones, tablets, and wireless devices on the go.",
+    "tags": ["battery", "charging", "portable", "wireless-charging"],
+    "bundle_with": ["tech-charge-cable", "smartwatch-sport"]
+  },
+  {
+    "id": "smartwatch-sport",
+    "name": "SmartWatch Sport Edition",
+    "price": 149,
+    "description": "Fitness-focused smartwatch with heart rate monitor, GPS tracking, and 7-day battery life. Water-resistant design for workouts and daily wear.",
+    "tags": ["smartwatch", "fitness", "wearable", "health-tracking"],
+    "bundle_with": ["power-bank-pro", "fitness-tracker-band"]
+  },
+  {
+    "id": "fitness-tracker-band",
+    "name": "Fitness Tracker Band",
+    "price": 39,
+    "description": "Lightweight activity tracker with sleep monitoring, step counter, and smartphone notifications. Comfortable silicone band for 24/7 wear.",
+    "tags": ["fitness", "wearable", "tracking", "health"],
+    "bundle_with": ["smartwatch-sport", "yoga-mat-premium"]
+  },
+  {
+    "id": "yoga-mat-premium",
+    "name": "Premium Yoga Mat Pro",
+    "price": 65,
+    "description": "Eco-friendly yoga mat with superior grip, extra cushioning, and alignment guides. Non-slip surface perfect for all yoga styles and workouts.",
+    "tags": ["fitness", "yoga", "exercise", "mat"],
+    "bundle_with": ["fitness-tracker-band", "resistance-bands-set"]
+  },
+  {
+    "id": "resistance-bands-set",
+    "name": "Resistance Bands Complete Set",
+    "price": 29,
+    "description": "5-piece resistance band set with varying resistance levels. Includes door anchor, handles, and exercise guide for full-body workouts at home.",
+    "tags": ["fitness", "workout", "home-gym", "resistance-training"],
+    "bundle_with": ["yoga-mat-premium", "wireless-mouse-ergo"]
+  },
+  {
+    "id": "wireless-mouse-ergo",
+    "name": "Ergo Wireless Mouse",
+    "price": 55,
+    "description": "Ergonomic wireless mouse designed for comfort during long work sessions. Precision tracking, 2-year battery life, and multi-device connectivity.",
+    "tags": ["computer", "mouse", "wireless", "ergonomic", "office"],
+    "bundle_with": ["wireless-keyboard-slim", "laptop-stand-adjustable"]
+  },
+  {
+    "id": "wireless-keyboard-slim",
+    "name": "Slim Wireless Keyboard",
+    "price": 69,
+    "description": "Ultra-thin wireless keyboard with mechanical-style keys and backlit design. Compatible with Windows, Mac, and tablets. Sleek aluminum finish.",
+    "tags": ["computer", "keyboard", "wireless", "office"],
+    "bundle_with": ["wireless-mouse-ergo", "laptop-stand-adjustable"]
+  },
+  {
+    "id": "laptop-stand-adjustable",
+    "name": "Adjustable Laptop Stand",
+    "price": 49,
+    "description": "Aluminum laptop stand with 9 height adjustments and 360-degree rotation. Ergonomic design improves posture and cooling. Fits laptops up to 17 inches.",
+    "tags": ["computer", "accessories", "ergonomic", "office", "stand"],
+    "bundle_with": ["wireless-mouse-ergo", "wireless-keyboard-slim"]
+  },
+  {
+    "id": "earbud-case",
+    "name": "Premium Earbud Case",
+    "price": 15,
+    "description": "Hard-shell protective case with carabiner clip for earbuds. Compact design with interior mesh pocket for accessories.",
+    "tags": ["accessories", "case", "protection"],
+    "bundle_with": ["prodigy-wireless-earbuds"]
+  }
+]
+
